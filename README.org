@@ -1,0 +1,10 @@
+** trident-in-clojure
+
+This is an example project showing how to create a [[https://github.com/nathanmarz/storm/wiki/Trident-tutorial][Trident]] topology that uses
+Kafka, written in Clojure.
+
+The accompanying [[http://whoahbot.com/2013/07/10/writing-trident-topologies-in-clojure.html][blog post]] explains how to get up and running.
+
+** License
+
+Licensed under the Apache 2.0 License.
